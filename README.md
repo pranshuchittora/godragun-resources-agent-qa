@@ -212,6 +212,10 @@ A curated list of incredible tools, AI workflows, libraries, and resources for d
 | [Lopaka](https://lopaka.app) | UI Tool | Graphics editor for Arduino/ESP32 displays | [lopaka.app](https://lopaka.app) | Design UI for embedded screens | Yes | N/A |
 | [Logomotion](https://www.logomotion.design) | Animation Studio | Logo video for ambitious brands | [www.logomotion.design](https://www.logomotion.design) | Study logo animations | Yes | N/A |
 | [CLO 3D](https://www.clo3d.com) | 3D Design | 3D fashion design software | [www.clo3d.com](https://www.clo3d.com) | Design virtual garments | Yes | N/A |
+| [Ideogram 4.0](https://ideogram.ai) | AI Generator | Open model for visual intelligence | [ideogram.ai](https://ideogram.ai) | Generate text on images | Yes | N/A |
+| [Mootion](https://www.mootion.com) | AI Video | Turn ideas into visual stories | [www.mootion.com](https://www.mootion.com) | Generate video content | Yes | N/A |
+| [SeaArt](https://www.seaart.ai) | AI Generator | AI creation agent for art & videos | [www.seaart.ai](https://www.seaart.ai) | Generate stunning art | Yes | N/A |
+| [Gemini Watermark Remover](https://geminiwatermarkremover.io) | AI Tool | Remove Gemini logo online | [geminiwatermarkremover.io](https://geminiwatermarkremover.io) | Clean AI generated images | Yes | N/A |
 
 ### Certificates & Competitions
 
@@ -223,14 +227,11 @@ A curated list of incredible tools, AI workflows, libraries, and resources for d
 
 | Name / Tool | What is it? | What does it do? | Links (Website & GitHub) | How to use it / Purpose | Useful for Learning? | Exact Associated Prompts |
 |-------------|-------------|------------------|--------------------------|------------------------|---------------------|--------------------------|
-| [Gemini Watermark Remover](https://geminiwatermarkremover.io) | AI Tool | Remove Gemini logo online | [geminiwatermarkremover.io](https://geminiwatermarkremover.io) | Clean AI generated images | Yes | N/A |
 | [NVIDIA NIM APIs](https://build.nvidia.com) | AI Tool | Try NVIDIA NIM APIs | [build.nvidia.com](https://build.nvidia.com) | Build AI apps with NVIDIA | Yes | N/A |
 | [Fiverr](https://www.fiverr.com) | Freelance Platform | Freelance services marketplace | [www.fiverr.com](https://www.fiverr.com) | Find gigs or freelancers | Yes | N/A |
 | [Indeed](https://myjobs.indeed.com) | Job Board | Job search engine | [myjobs.indeed.com](https://myjobs.indeed.com) | Find jobs | Yes | N/A |
-| [Ideogram 4.0](https://ideogram.ai) | AI Generator | Open model for visual intelligence | [ideogram.ai](https://ideogram.ai) | Generate text on images | Yes | N/A |
 | [Name.com](https://www.name.com) | Domain Registrar | Domain management | [www.name.com](https://www.name.com) | Buy and manage domains | Yes | N/A |
-| [Mootion](https://www.mootion.com) | AI Video | Turn ideas into visual stories | [www.mootion.com](https://www.mootion.com) | Generate video content | Yes | N/A |
 | [ElevenLabs](https://elevenlabs.io) | AI Audio | AI voice generator | [elevenlabs.io](https://elevenlabs.io) | Generate realistic voiceovers | Yes | N/A |
 | [Grabify](https://grabify.link) | IP Tool | IP logger & URL shortener | [grabify.link](https://grabify.link) | Track links and log IPs | Yes | N/A |
 | [Koupon](https://www.koupon.ai) | Deals Platform | Amazon promo codes & daily deals | [www.koupon.ai](https://www.koupon.ai) | Find discounts | No | N/A |
-| [SeaArt](https://www.seaart.ai) | AI Generator | AI creation agent for art & videos | [www.seaart.ai](https://www.seaart.ai) | Generate stunning art | Yes | N/A |
+| [Zoho Mail](https://mail.zoho.com) | Email Service | Secure email hosting | [mail.zoho.com](https://mail.zoho.com) | Manage business or personal emails | No | N/A |
