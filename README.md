@@ -183,3 +183,54 @@ A curated list of incredible tools, AI workflows, libraries, and resources for d
 | [Cirkit Designer IDE](https://cirkitdesigner.com) | Online Circuit Design IDE | Browser-based circuit schematic and PCB layout tool with component simulation | [Open Cirkit Designer](https://cirkitdesigner.com) | Design, simulate, and export circuit schematics without installing software; good for Arduino/ESP32 projects | Very | N/A |
 | [MathWorks Robotics (awesome-matlab-robotics)](https://mathworks.com/products/robotics.html) | MATLAB Robotics Library & GitHub Directory | Open-source curated list of MATLAB/Simulink tools, simulators, and examples for robot engineering | [MathWorks Robotics](https://mathworks.com/products/robotics.html) \| [GitHub](https://github.com/mathworks-robotics/awesome-matlab-robotics) | Find pre-built algorithms for path planning, kinematics, and collision avoidance for university robotics projects | Very | N/A |
 | [Open Design (AI UI/UX Studio)](https://opendesign.is) | AI Interface Design Studio | Premium design studio focused on building beautiful interfaces for AI tools and applications | [Open Design](https://opendesign.is) | Study high-level UI/UX design patterns for AI products; learn how to make AI software look premium | Yes | N/A |
+
+### UI & UX Design Resources
+
+| Name / Tool | What is it? | What does it do? | Links (Website & GitHub) | How to use it / Purpose | Useful for Learning? | Exact Associated Prompts |
+|-------------|-------------|------------------|--------------------------|------------------------|---------------------|--------------------------|
+| [Shader Gradient](https://shadergradient.co) | UI Tool | Creates beautiful moving gradients | [shadergradient.co](https://shadergradient.co) | Add 3D gradients to websites | Yes | N/A |
+| [AutoAnimate](https://auto-animate.formkit.com) | Animation Library | Zero-config, drop-in animation utility | [auto-animate.formkit.com](https://auto-animate.formkit.com) | Add motion to web apps | Yes | N/A |
+| [Lucide](https://lucide.dev) | Icon Set | Beautiful and consistent icon toolkit | [lucide.dev](https://lucide.dev) | Use icons in UI design | Yes | N/A |
+| [Awwwards](https://www.awwwards.com) | Design Inspiration | Showcases the best web design | [www.awwwards.com](https://www.awwwards.com) | Find premium design inspiration | Very | N/A |
+| [MaxiBestOf](https://maxibestof.one) | Design Feed | Website design and fonts inspiration | [maxibestof.one](https://maxibestof.one) | Discover UI trends | Yes | N/A |
+| [MagicPattern](https://www.magicpattern.design) | UI Assets | Templates for social media and design | [www.magicpattern.design](https://www.magicpattern.design) | Generate seamless patterns | Yes | N/A |
+| [Phosphor Icons](https://phosphoricons.com) | Icon Library | Flexible icon family for interfaces | [phosphoricons.com](https://phosphoricons.com) | Use customizable icons | Yes | N/A |
+| [shadcn/ui](https://ui.shadcn.com) | UI Component Library | Accessible and customizable components | [ui.shadcn.com](https://ui.shadcn.com) | Build React interfaces fast | Very | N/A |
+| [Vengeance UI](https://www.vengenceui.com) | UI Component Library | Animated React components | [www.vengenceui.com](https://www.vengenceui.com) | Copy-paste advanced components | Yes | N/A |
+| [Animmaster Lib](https://animmasterlib.dev) | UI Component Library | 300 PRO-level animated components | [animmasterlib.dev](https://animmasterlib.dev) | Build modern web products | Yes | N/A |
+| [Aceternity UI](https://ui.aceternity.com) | UI Component Library | Tailwind CSS and Framer Motion components | [ui.aceternity.com](https://ui.aceternity.com) | Build modern animated UIs | Yes | N/A |
+| [Refero Styles](https://styles.refero.design) | Design Inspiration | DESIGN.md examples for AI Agents | [styles.refero.design](https://styles.refero.design) | Find design styles | Yes | N/A |
+| [MotionSites](https://motionsites.ai) | Design Library | Premium AI hero prompts & designs | [motionsites.ai](https://motionsites.ai) | Use AI prompts for UI | Yes | N/A |
+| [HeroUI](https://heroui.com) | UI Component Library | Beautiful, fast and modern React UI library | [heroui.com](https://heroui.com) | Build Next.js/React apps | Yes | N/A |
+| [Pattern Monster](https://pattern.monster) | SVG Generator | SVG pattern generator | [pattern.monster](https://pattern.monster) | Create backgrounds | Yes | N/A |
+| [LottieFiles](https://lottiefiles.com) | Animation Assets | Free React animations in GIF, MP4, JSON | [lottiefiles.com](https://lottiefiles.com) | Add Lottie animations | Yes | N/A |
+| [Refero](https://refero.design) | Design Search | Search web design inspiration | [refero.design](https://refero.design) | Research UI layouts | Yes | N/A |
+| [Swishy](https://www.swishy.ai) | Animation Tool | AI motion designer and animator | [www.swishy.ai](https://www.swishy.ai) | Create stunning animations | Yes | N/A |
+| [Canva](https://www.canva.com) | Design Platform | Online design and publishing tool | [www.canva.com](https://www.canva.com) | Create graphics and presentations | Yes | N/A |
+| [Anime.js](https://animejs.com) | Animation Library | JavaScript animation engine | [animejs.com](https://animejs.com) | Animate UI elements | Yes | N/A |
+| [SVGator](https://www.svgator.com) | Animation Tool | Free SVG animation tool online | [www.svgator.com](https://www.svgator.com) | Animate SVGs without coding | Yes | N/A |
+| [Lopaka](https://lopaka.app) | UI Tool | Graphics editor for Arduino/ESP32 displays | [lopaka.app](https://lopaka.app) | Design UI for embedded screens | Yes | N/A |
+| [Logomotion](https://www.logomotion.design) | Animation Studio | Logo video for ambitious brands | [www.logomotion.design](https://www.logomotion.design) | Study logo animations | Yes | N/A |
+| [CLO 3D](https://www.clo3d.com) | 3D Design | 3D fashion design software | [www.clo3d.com](https://www.clo3d.com) | Design virtual garments | Yes | N/A |
+
+### Certificates & Competitions
+
+| Name / Tool | What is it? | What does it do? | Links (Website & GitHub) | How to use it / Purpose | Useful for Learning? | Exact Associated Prompts |
+|-------------|-------------|------------------|--------------------------|------------------------|---------------------|--------------------------|
+| [Devpost](https://devpost.com) | Hackathon Platform | Find and join upcoming hackathons | [devpost.com](https://devpost.com) | Compete and build projects | Very | N/A |
+
+### Other Tools & Resources
+
+| Name / Tool | What is it? | What does it do? | Links (Website & GitHub) | How to use it / Purpose | Useful for Learning? | Exact Associated Prompts |
+|-------------|-------------|------------------|--------------------------|------------------------|---------------------|--------------------------|
+| [Gemini Watermark Remover](https://geminiwatermarkremover.io) | AI Tool | Remove Gemini logo online | [geminiwatermarkremover.io](https://geminiwatermarkremover.io) | Clean AI generated images | Yes | N/A |
+| [NVIDIA NIM APIs](https://build.nvidia.com) | AI Tool | Try NVIDIA NIM APIs | [build.nvidia.com](https://build.nvidia.com) | Build AI apps with NVIDIA | Yes | N/A |
+| [Fiverr](https://www.fiverr.com) | Freelance Platform | Freelance services marketplace | [www.fiverr.com](https://www.fiverr.com) | Find gigs or freelancers | Yes | N/A |
+| [Indeed](https://myjobs.indeed.com) | Job Board | Job search engine | [myjobs.indeed.com](https://myjobs.indeed.com) | Find jobs | Yes | N/A |
+| [Ideogram 4.0](https://ideogram.ai) | AI Generator | Open model for visual intelligence | [ideogram.ai](https://ideogram.ai) | Generate text on images | Yes | N/A |
+| [Name.com](https://www.name.com) | Domain Registrar | Domain management | [www.name.com](https://www.name.com) | Buy and manage domains | Yes | N/A |
+| [Mootion](https://www.mootion.com) | AI Video | Turn ideas into visual stories | [www.mootion.com](https://www.mootion.com) | Generate video content | Yes | N/A |
+| [ElevenLabs](https://elevenlabs.io) | AI Audio | AI voice generator | [elevenlabs.io](https://elevenlabs.io) | Generate realistic voiceovers | Yes | N/A |
+| [Grabify](https://grabify.link) | IP Tool | IP logger & URL shortener | [grabify.link](https://grabify.link) | Track links and log IPs | Yes | N/A |
+| [Koupon](https://www.koupon.ai) | Deals Platform | Amazon promo codes & daily deals | [www.koupon.ai](https://www.koupon.ai) | Find discounts | No | N/A |
+| [SeaArt](https://www.seaart.ai) | AI Generator | AI creation agent for art & videos | [www.seaart.ai](https://www.seaart.ai) | Generate stunning art | Yes | N/A |
