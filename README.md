@@ -17,7 +17,6 @@ A curated list of incredible tools, AI workflows, libraries, and resources for d
 | [Netlify](https://www.netlify.com) | Web deployment platform | Hosts websites and apps | [Deploy with Netlify](https://www.netlify.com) | Deploy React/static sites for free | Very | N/A |
 | [Heroku](https://www.heroku.com) | Cloud platform | Deploy backend/web apps | [Open Heroku](https://www.heroku.com) | Host APIs, bots, and apps | Very | N/A |
 | [Copilot 3D](https://copilot.microsoft.com) | Microsoft AI experiment | AI-assisted 3D concepts | [Open Copilot](https://copilot.microsoft.com) | Explore AI 3D design capabilities | Yes | N/A |
-| [freeCodeCamp](https://www.freecodecamp.org) | Free coding platform | Full programming curriculum | [Open freeCodeCamp](https://www.freecodecamp.org) | Learn web development comprehensively | Very | N/A |
 | [Mixkit Premiere Templates](https://mixkit.co) | Video editing assets | Free Premiere Pro templates | [Download Templates](https://mixkit.co) | Improve video editing workflow | Yes | N/A |
 | [MusicGPT](https://musicgpt.com) | AI music generation tool | Generates music with AI | [Open MusicGPT](https://musicgpt.com) | Create background music for projects | Yes | N/A |
 | [Chosic](https://www.chosic.com) | Music discovery tool | Finds similar songs/music | [Discover Music](https://www.chosic.com) | Discover music by mood/genre | Yes | N/A |
@@ -207,6 +206,7 @@ A curated list of incredible tools, AI workflows, libraries, and resources for d
 | Name / Tool | What is it? | What does it do? | Links (Website & GitHub) | How to use it / Purpose | Useful for Learning? | Exact Associated Prompts |
 |-------------|-------------|------------------|--------------------------|------------------------|---------------------|--------------------------|
 | [edX](https://www.edx.org) | Online learning platform | University courses and certificates | [Browse Courses](https://www.edx.org) | Learn CS, AI, business from top universities | Very | N/A |
+| [freeCodeCamp](https://www.freecodecamp.org) | Free coding platform | Full programming curriculum | [Open freeCodeCamp](https://www.freecodecamp.org) | Learn web development comprehensively | Very | N/A |
 | [freeCodeCamp Responsive Web Design](https://www.freecodecamp.org/learn/responsive-web-design) | Web design certification | HTML/CSS learning path | [Start Certification](https://www.freecodecamp.org/learn/responsive-web-design) | Master responsive web design | Very | N/A |
 | [Google Skills](https://www.skills.google) | Google learning portal | Courses and career certificates | [Open Google Skills](https://www.skills.google) | Learn Google tools and digital skills | Very | N/A |
 | [Coursera](https://www.coursera.org) | Online learning platform | Courses in many languages | [Browse Coursera](https://www.coursera.org) | Take university-level courses | Very | N/A |
